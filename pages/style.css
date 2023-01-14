@@ -448,6 +448,7 @@
    body{
     overflow-x: hidden;
    }
-
-
+   .question-img {
+    width: 100%;
+   }
  }
